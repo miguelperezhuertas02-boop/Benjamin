@@ -1,0 +1,7 @@
+{
+  "name": "Copy of The White Order Imports",
+  "description": "Premium landing page for The White Order, specialists in USA imports and iPhones, featuring a minimalist design and interactive content editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
